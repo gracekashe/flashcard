@@ -1,0 +1,17 @@
+#appear {
+  color: brown;
+  display: none;
+}
+
+.clickable {
+  color: red;
+  text-decoration: underline;
+}
+
+#initially-hidden {
+  display: none;
+}
+
+/*.def {
+  display: none;
+}*/
